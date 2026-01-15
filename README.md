@@ -56,5 +56,5 @@ Création de visualisations pour :
 ## 5. Comment Exécuter le Projet  
 1. Cloner ce dépôt :  
    ```bash
-   git clone https://github.com/Ilyas11-03/Mini_Projet_Python.git
+   https://github.com/CainMoha/Mini_Projet_Python.git
   Ou bien tu peux juste télécharger le fichier zip.
